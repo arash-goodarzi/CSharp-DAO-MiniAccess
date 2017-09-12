@@ -1,0 +1,15 @@
+D:\420-P46-AS C#\MiniAccess\bin\Debug\MiniAccess.exe.config
+D:\420-P46-AS C#\MiniAccess\bin\Debug\MiniAccess.exe
+D:\420-P46-AS C#\MiniAccess\bin\Debug\MiniAccess.pdb
+D:\420-P46-AS C#\MiniAccess\obj\Debug\MiniAccess.csprojResolveAssemblyReference.cache
+D:\420-P46-AS C#\MiniAccess\obj\Debug\MiniAccess.Properties.Resources.resources
+D:\420-P46-AS C#\MiniAccess\obj\Debug\MiniAccess.csproj.GenerateResource.Cache
+D:\420-P46-AS C#\MiniAccess\obj\Debug\MiniAccess.exe
+D:\420-P46-AS C#\MiniAccess\obj\Debug\MiniAccess.pdb
+D:\420-P46-AS C#\MiniAccess\obj\Debug\MiniAccess.GUI.frmCreateTable.resources
+D:\420-P46-AS C#\MiniAccess\obj\Debug\MiniAccess.GUI.frmMain.resources
+D:\420-P46-AS C#\MiniAccess\obj\Debug\Interop.DAO.dll
+D:\420-P46-AS C#\MiniAccess\obj\Debug\MiniAccess.csproj.ResolveComReference.cache
+D:\420-P46-AS C#\MiniAccess\bin\Debug\Interop.DAO.dll
+D:\420-P46-AS C#\MiniAccess\obj\Debug\MiniAccess.GUI.frmRelatioship.resources
+D:\420-P46-AS C#\MiniAccess\obj\Debug\MiniAccess.displayDescriptionOfDatabase.resources
